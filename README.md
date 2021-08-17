@@ -1,6 +1,5 @@
 # magic8ball
-
-A new Flutter project.
+Flutter learning- magic ball Challenge
 
 ## Getting Started
 
